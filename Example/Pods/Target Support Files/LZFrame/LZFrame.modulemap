@@ -1,0 +1,6 @@
+framework module LZFrame {
+  umbrella header "LZFrame-umbrella.h"
+
+  export *
+  module * { export * }
+}

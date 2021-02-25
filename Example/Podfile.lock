@@ -1,0 +1,16 @@
+PODS:
+  - LZFrame (0.1.0)
+
+DEPENDENCIES:
+  - LZFrame (from `../`)
+
+EXTERNAL SOURCES:
+  LZFrame:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LZFrame: 4c2267507e33c7a3ae9a7b61db98cfc0b38b8b44
+
+PODFILE CHECKSUM: 0f7b18e2756feecba1117eff8f98c1d0b80b9935
+
+COCOAPODS: 1.10.0

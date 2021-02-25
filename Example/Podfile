@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'LZFrame_Example' do
+  pod 'LZFrame', :path => '../'
+
+  target 'LZFrame_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
